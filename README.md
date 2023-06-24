@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cfinn8822/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cfinn8822/ticket-lifecycle)
  
-<img src="https://i.imgur.com/J5aDyWX.png.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J5aDyWX.png.png" height="5%" width="5%" alt="Disk Sanitization Steps"/>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cfinn8822/configure-ad)
