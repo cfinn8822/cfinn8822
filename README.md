@@ -1,4 +1,4 @@
-### Hi, I'm christopher, https://www.linkedin.com/in/chris-finnerty-it-professional
+<h1>Hi, I'm Christopher, an <a href="https://linkedin.com/in/chris-finnerty-it-professional">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
