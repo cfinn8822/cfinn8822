@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christopher, an <a href="https://linkedin.com/in/chris-finnerty-it-professional">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 <img src="https://i.imgur.com/UxX5j0d.png.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
