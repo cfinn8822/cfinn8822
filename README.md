@@ -11,6 +11,7 @@
 <img src="https://i.imgur.com/J5aDyWX.png.png" height="5%" width="5%" alt="Disk Sanitization Steps"/>
 
 - <b>Microsoft Azure</b>
+  - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/cfinn8822/azure-start)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cfinn8822/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cfinn8822/azure-network-protocols)
 
